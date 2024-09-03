@@ -1,0 +1,10 @@
+
+   12  mkdir basicshellscripts
+   13  cd basicshellscripts
+   14  nano update_upgrade.sh
+   15  nano network_troubleshoot.sh
+   16  chmod +x update_upgrade.sh
+   17  chmod +x network_troubleshoot.sh
+   18  ./update_upgrade.sh
+   19  ./network_troubleshoot.sh
+   20  history
